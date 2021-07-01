@@ -21,7 +21,7 @@
     "message": "Невозможно перевести страницу"
   },
   "lblAlwaysTranslate": {
-    "message": "Always translate from $LANGUAGE_NAME$",
+    "message": "Всегда переводить с $LANGUAGE_NAME$",
     "placeholders": {
       "LANGUAGE_NAME": {
         "content": "$1",
@@ -30,7 +30,7 @@
     }
   },
   "lblTargetLanguage": {
-    "message": "Target language $TARGET_LANGUAGE_NUM$",
+    "message": "Язык перевода $TARGET_LANGUAGE_NUM$",
     "placeholders": {
       "TARGET_LANGUAGE_NUM": {
         "content": "$1",
@@ -105,7 +105,7 @@
     "message": "Помочь разработчику пожертвованием"
   },
   "msgTranslateFor": {
-    "message": "Translate to $LANGUAGE_NAME$",
+    "message": "Перевести на $LANGUAGE_NAME$",
     "placeholders": {
       "LANGUAGE_NAME": {
         "content": "$1",
@@ -153,7 +153,7 @@
     "message": "Сделать пожертвование через PayPal"
   },
   "lblDarkMode": {
-    "message": "Темный режим"
+    "message": "Тёмный режим"
   },
   "lblShowReleaseNotes": {
     "message": "Открывать заметки о релизе при обновлении"
@@ -210,7 +210,7 @@
     "message": "Добавить"
   },
   "lblShowTranslatedWhenHovering": {
-    "message": "При наведении курсора показывать переведенный текст"
+    "message": "При наведении курсора показывать переведённый текст"
   },
   "lblKeyboardShortcuts": {
     "message": "Горячие клавиши"
@@ -228,10 +228,10 @@
     "message": "Всегда переводить с этого языка"
   },
   "lblShowTranslatedHoveringSites": {
-    "message": "При наведении курсора на этих сайтах показывать переведенный текст"
+    "message": "При наведении курсора на этих сайтах показывать переведённый текст"
   },
   "popupBlueWhenSiteIsTranslated": {
-    "message": "Когда сайт переведен, окрашивать значок расширения синим"
+    "message": "Когда сайт переведён, окрашивать значок расширения синим"
   },
   "more": {
     "message": "Больше"
@@ -240,13 +240,13 @@
     "message": "Меньше"
   },
   "dontShowIfPageLangIsTargetLang": {
-    "message": "Не показывать, является ли язык страницы является языком перевода"
+    "message": "Не показывать, если язык страницы является языком перевода"
   },
   "dontShowIfPageLangIsUnknown": {
     "message": "Не показывать, если язык страницы неизвестен"
   },
   "dontShowIfSelectedTextIsTargetLang": {
-    "message": "Не показывать, является ли выбранный язык текста языком перевода"
+    "message": "Не показывать, если выбранный язык текста является языком перевода"
   },
   "dontShowIfSelectedTextIsUnknown": {
     "message": "Не показывать, если выбранный язык текста неизвестен"
@@ -255,7 +255,7 @@
     "message": "При наведении курсора на этом сайте показывать перевод"
   },
   "lblShowTranslatedWhenHoveringThisLang": {
-    "message": "Show translation when hovering over websites in $LANGUAGE_NAME$",
+    "message": "Показывать перевод при наведении курсора на сайтах локализованных на $LANGUAGE_NAME$",
     "placeholders": {
       "LANGUAGE_NAME": {
         "content": "$1",
@@ -264,7 +264,7 @@
     }
   },
   "lblShowTranslatedHoveringLangs": {
-    "message": "При наведении курсора показывать переведенный текст на сайтах на этих языках"
+    "message": "При наведении курсора показывать переведённый текст на сайтах на этих языках"
   },
   "msgNoTranslateSelectedText": {
     "message": "Не переводить выделенный текст"
@@ -309,7 +309,7 @@
     "message": "Хранилище"
   },
   "lblTranslationCache": {
-    "message": "Кеш перевода"
+    "message": "Кэш перевода"
   },
   "lblStorageUsed": {
     "message": "Занято:"
@@ -330,13 +330,13 @@
     "message": "Восстановить настройки по умолчанию"
   },
   "doYouWantToDeleteTranslationCache": {
-    "message": "Вы хотите удалить кеш перевода?"
+    "message": "Вы хотите удалить кэш перевода?"
   },
   "doYouWantOverwriteAllSettings": {
     "message": "Перезаписать все существующие настройки, используя данные резервной копии?"
   },
   "fileIsCorrupted": {
-    "message": "Файл поврежден"
+    "message": "Файл повреждён"
   },
   "doYouWantRestoreSettings": {
     "message": "Восстановить настройки расширения по умолчанию?"
@@ -360,7 +360,7 @@
     "message": "Неверная комбинация"
   },
   "lblSwitchTranslatedAndOriginal": {
-    "message": "Переключаться между переведенной и исходной страницами"
+    "message": "Переключаться между переведённой и исходной страницами"
   },
   "lblRestorePageToOriginal": {
     "message": "Восстановить исходный язык страницы"
@@ -369,7 +369,7 @@
     "message": "Перевести страницу на целевой язык"
   },
   "lblTranslateTag_pre": {
-    "message": "Enable translation for the tag $HTML_TAG_NAME$",
+    "message": "Включить перевод для тега $HTML_TAG_NAME$",
     "placeholders": {
       "HTML_TAG_NAME": {
         "content": "<PRE>"
@@ -377,18 +377,18 @@
     }
   },
   "lbldontsortresults": {
-    "message": "Do not sort the google translate results"
+    "message": "Не сортировать результаты Google Переводчика"
   },
   "lbltranslatedynamicallycreatedcontent": {
-    "message": "Translate dynamically created content"
+    "message": "Переводить динамически созданный контент"
   },
   "calculatestorage": {
-    "message": "Calculate"
+    "message": "Занято памяти"
   },
   "donatewithpaypal": {
     "message": "Пожертвовать через PayPal"
   },
   "lblAutoTranslateWhenClickingALink": {
-    "message": "Автоматически переводить при нажатии на ссылку, которая ведет на тот же домен, что и текущий сайт"
+    "message": "Автоматически переводить при нажатии на ссылку, которая ведёт на тот же домен, что и текущий сайт"
   }
 }
